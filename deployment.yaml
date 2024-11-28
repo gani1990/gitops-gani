@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: gani
-          image: gani1990/gani-pipeline:1.0.0-88
+          image: gani1990/gani-pipeline:1.0.0-91
           resources:
             limits:
               memory: "256Mi"
